@@ -1,7 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project  with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 including Prisma, Chakra-ui with postgre database with pagination
 
-you can download the pisgre from https://sbp.enterprisedb.com/getfile.jsp?fileid=1258322
+you can download the postgre from https://sbp.enterprisedb.com/getfile.jsp?fileid=1258322
 
 
 Just run : nmp install 
